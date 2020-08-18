@@ -1,11 +1,19 @@
 body {
-	background-image:url(bg/bg_main2.gif);
 	background-color:#000000;
 	color:#c1b492;	
 
 	
 	}
 
+
+ h1 {
+        font-size:20px;
+        font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight:normal;
+        clear:both;
+        color: #5683ff;
+        text-shadow: 0 0 8px #568384;
+     }
 
 .article {
 	width:800px;
